@@ -9,6 +9,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ```dart
 abstract SamuelSFernandes {
+
  String name = "Samuel Dos Santos Fernandes"
  String acknowledgements = "ÁREA DE CONHECIMENTO"
  
