@@ -11,9 +11,9 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 abstract SamuelSFernandes {
 
  String name = "Samuel Dos Santos Fernandes"
- String acknowledgements = "ÁREA DE CONHECIMENTO"
+ String acknowledgements = "Desenvolvimento mobile"
  
- String primarySkillset = "ALGUMAS HABILIDADES"
+ String primarySkillset = "Firebase, Getx, Mobx, SCRUM"
  List<String> stacks = ["Dart", "Flutter", "Swift"] 
 
 }
